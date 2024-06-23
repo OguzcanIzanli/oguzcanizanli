@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js and Redux**
 
-- 🔭 I’m currently working on my portfolio page and Vet-App
+- 🔭 I’m currently working on my portfolio page.
 
 - 👨‍💻 All of my projects are available at **under construction**
 
