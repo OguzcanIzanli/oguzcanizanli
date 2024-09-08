@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on my portfolio page.
 
-- 👨‍💻 All of my projects are available at **under construction**
+- 👨‍💻 All of my projects are available at [My Portfolio Page](https://izanli.com.tr)
 
 - 📫 How to reach me **[oguzcanizanli@gmail.com](mailto:oguzcanizanli@gmail.com)**
 
