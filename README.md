@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js and Testing**
 
-- 🔭 I’m currently working on my portfolio page.
+- 🔭 I’m currently working on modal generator project.
 
 - 👨‍💻 All of my projects are available at [My Portfolio Page](https://izanli.com.tr)
 
