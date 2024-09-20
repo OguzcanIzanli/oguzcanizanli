@@ -8,7 +8,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="180">
 
-- 🌱 I’m currently learning **Next.js and Testing**
+- 🌱 I’m currently learning **Next.js, storybook and Testing**
 
 - 🔭 I’m currently working on modal generator project.
 
