@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **[oguzcanizanli@gmail.com](mailto:oguzcanizanli@gmail.com)**
 
-- 📄 My resume: [O. İzanlı Resume](https://drive.google.com/file/d/1h-wq3SRs--ONPYPg2OW7UuUeKU9Z01N8/view?usp=sharing)
+- 📄 My resume: [O. İzanlı Resume](https://drive.google.com/file/d/1yCDjDzPlxuJQ_3NnDvFZKFmlzQpedDat/view?usp=sharing)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
