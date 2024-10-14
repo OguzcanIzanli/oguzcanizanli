@@ -8,7 +8,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="180">
 
-- 🌱 I’m currently learning **Next.js, storybook and Testing**
+- 🌱 I’m currently learning **Testing**
 
 - 🔭 I’m currently working on modal generator project.
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **[oguzcanizanli@gmail.com](mailto:oguzcanizanli@gmail.com)**
 
-- 📄 My resume: [O. İzanlı Resume](https://rxresu.me/oguzcanizanli/oguzcan-izanli-cv)
+- 📄 My resume: [O. İzanlı Resume](https://drive.google.com/file/d/1h-wq3SRs--ONPYPg2OW7UuUeKU9Z01N8/view?usp=sharing)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -31,6 +31,7 @@
 <div align="center">  
 <code><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./images/javascript.svg" alt="JavaScript" height="50" /></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./images/react.svg" alt="React" height="50" /></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./images/nextjs.svg" alt="React" height="50" /></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="./images/typescript.svg" alt="TypeScript" height="50" /></a></code>
 <code><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./images/html5.svg" alt="HTML5" height="50" /></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./images/css3.svg" alt="CSS3" height="50" /></a></code>
@@ -38,6 +39,7 @@
 <code><a href="https://github.com/" target="_blank"><img style="margin: 10px" src="./images/git.svg" alt="Git" height="50" /></a></code>
 <code><a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="./images/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a></code>
 <code><a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="./images/sass.svg" alt="Sass" height="50" /></a></code>
+
 </div>
 
 <h3 align="left">📊 Github Stats:</h3>
