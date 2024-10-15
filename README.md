@@ -31,7 +31,7 @@
 <div align="center">  
 <code><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./images/javascript.svg" alt="JavaScript" height="50" /></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./images/react.svg" alt="React" height="50" /></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./images/nextjs.svg" alt="React" height="50" /></a></code>
+<code><a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="./images/nextjs.svg" alt="Next.js" height="50" /></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="./images/typescript.svg" alt="TypeScript" height="50" /></a></code>
 <code><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./images/html5.svg" alt="HTML5" height="50" /></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./images/css3.svg" alt="CSS3" height="50" /></a></code>
